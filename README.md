@@ -3,7 +3,7 @@
 
 ## Description
 
-Ce projet consiste à recopier la commande système "ls" avec un bon nombre d'options de base notamment l'option -R qui va continuer de lister les fichiers présents dans le répertoire demandé ainsi que ses sous-répertoires.
+Ce projet consiste à recopier la commande système "ls" avec bon nombre d'options de base notamment l'option -R qui va continuer de lister les fichiers présents dans le répertoire demandé ainsi que ses sous-répertoires.
 
 ## Usage
 
