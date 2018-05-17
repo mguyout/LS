@@ -9,7 +9,7 @@ Ce projet consiste à recopier la commande système "ls" avec un bon nombre d'op
 
 ```
 $> make
-$> ./RT file/file.rt
+$> ./ft_ls [-lRart]
 ```
 
 ## Exemple imagé
